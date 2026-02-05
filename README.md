@@ -1,2 +1,22 @@
-# Employee-Management-System
-Employee Management System is a web-based application developed using HTML, CSS, and JavaScript that allows users to add, update, view, and delete employee records. It provides an interactive and user-friendly interface to manage employee details such as name, email, phone number, and job role efficiently.
+# Employee Management System
+
+This is a simple employee management system made using HTML, CSS, and JavaScript. It uses local storage to store the data. It has the following features:
+
+Add Employee
+
+Edit Employee
+
+Delete Employee
+
+## Demo
+### https://sauravhathi.github.io/employee-management-system/
+
+![image](https://user-images.githubusercontent.com/61316762/201523568-51e1ed64-26ab-43e6-b34c-a1687c8097d3.png)
+
+## How to use
+
+1. Clone the repository
+
+2. Open the `index.html` file in your browser
+
+3. Add, edit, and delete employees
